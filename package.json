@@ -1,0 +1,27 @@
+{
+  "name": "polymer-express-server-side-rendering",
+  "version": "1.0.0",
+  "description": "Polymer + Express Server Side Rendering",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigwisu/polymer-express-server-side-rendering.git"
+  },
+  "keywords": [
+    "Polymer",
+    "Express",
+    "Server",
+    "Side",
+    "Rendering"
+  ],
+  "author": "Wisu Suntoyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigwisu/polymer-express-server-side-rendering/issues"
+  },
+  "homepage": "https://github.com/bigwisu/polymer-express-server-side-rendering#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
